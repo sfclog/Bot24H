@@ -1,0 +1,4 @@
+name: Bot24H
+version: '${project.version}'
+main: me.sfclog.bot.Main
+api-version: '1.19'
